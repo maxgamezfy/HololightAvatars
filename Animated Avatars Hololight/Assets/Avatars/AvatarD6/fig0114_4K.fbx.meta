@@ -6,7 +6,17 @@ ModelImporter:
   - first:
       74: 8741396090455353630
     second: fig0114_rig|fig0114_rig|Take 001|Take 001:BaseAnimation
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Turbante
+    second: {fileID: 2100000, guid: 072794d093a898a49a1c9d0296f4ca01, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fig0114_material
+    second: {fileID: 2100000, guid: 08d51af242deaf54393c0946ce91f914, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0

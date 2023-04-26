@@ -6,7 +6,12 @@ ModelImporter:
   - first:
       74: 653548424035730368
     second: fig0085_Rig|fig0085_Rig|Take 001|Take 001:BaseAnimation
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fig0085_material
+    second: {fileID: 2100000, guid: 09290e2467327dd41b1ffc49b825c9ed, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0

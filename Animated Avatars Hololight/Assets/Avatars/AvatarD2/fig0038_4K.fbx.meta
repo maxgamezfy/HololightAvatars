@@ -6,7 +6,17 @@ ModelImporter:
   - first:
       74: 2987281409697871758
     second: fig0038_Rig|fig0038_Rig|Take 001|Take 001:BaseAnimation
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Low_poly_defaultMat1
+    second: {fileID: 2100000, guid: c88b0f5656db5904daa63bad23ea37ec, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fig0038_Material
+    second: {fileID: 2100000, guid: 5c5cf5afb92615146a2fa43aaf403db9, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0

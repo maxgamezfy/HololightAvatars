@@ -6,7 +6,22 @@ ModelImporter:
   - first:
       74: 500553176017499867
     second: fig0119_rig|fig0119_rig|Take 001|Take 001:BaseAnimation
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fig0119_material
+    second: {fileID: 2100000, guid: 27962907017e9ba41abaa694ebb8abef, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: glass
+    second: {fileID: 2100000, guid: f8276193574001c468089d3827ce786a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: standardSurface4.001
+    second: {fileID: 2100000, guid: cf4c505e2c6fd8f449580981ad357fc7, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
